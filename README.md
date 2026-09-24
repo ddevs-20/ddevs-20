@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### 👋 Hi, I'm **Demfati**
+  ### 👋 Hi, I'm **D from Demfati**
   
   **Full-Stack & Mobile Developer**  
   Building products that actually ship.
